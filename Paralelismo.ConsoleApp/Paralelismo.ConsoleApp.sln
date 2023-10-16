@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paralelismo.ConsoleApp", "..\..\Paralelismo.ConsoleApp\Paralelismo.ConsoleApp.csproj", "{E9A193FB-866E-4FD8-98E1-ED06A837595B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralelismo.ConsoleApp", "Paralelismo.ConsoleApp\Paralelismo.ConsoleApp.csproj", "{D7AAD635-BCC6-4EAD-A662-CA03787CC41F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9A193FB-866E-4FD8-98E1-ED06A837595B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9A193FB-866E-4FD8-98E1-ED06A837595B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9A193FB-866E-4FD8-98E1-ED06A837595B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9A193FB-866E-4FD8-98E1-ED06A837595B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7AAD635-BCC6-4EAD-A662-CA03787CC41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7AAD635-BCC6-4EAD-A662-CA03787CC41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7AAD635-BCC6-4EAD-A662-CA03787CC41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7AAD635-BCC6-4EAD-A662-CA03787CC41F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
